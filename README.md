@@ -27,14 +27,19 @@
 
 ## 기술 스택
 #### BackEnd
-<img src="https://img.shields.io/badge/django-174435?style=for-the-badge&logo=Django&logoColor=white">
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white">
+<div display='flex'>
+    <img src="https://img.shields.io/badge/django-174435?style=for-the-badge&logo=Django&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white">
+</div>
+
 
 #### FrontEnd
-<img src="https://img.shields.io/badge/Vue.js-6fb486?style=for-the-badge&logo=Vue.js&logoColor=3a4f63">
-<img src="https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=vite&logoColor=9e77f5">
-<img src="https://img.shields.io/badge/JavaScript-f7e025?style=for-the-badge&logo=JavaScript&logoColor=black">
-<img src="https://img.shields.io/badge/bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=6514dd">
+<div display='flex'>
+    <img src="https://img.shields.io/badge/Vue.js-6fb486?style=for-the-badge&logo=Vue.js&logoColor=3a4f63">
+    <img src="https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=vite&logoColor=9e77f5">
+    <img src="https://img.shields.io/badge/JavaScript-f7e025?style=for-the-badge&logo=JavaScript&logoColor=black">
+    <img src="https://img.shields.io/badge/bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=6514dd">
+</div>
 
 #### 협업
 <img src="https://img.shields.io/badge/git.js-black?style=for-the-badge&logo=Git">
