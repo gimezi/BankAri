@@ -46,6 +46,6 @@
 
 ## 팀원
 
-|[![](https://github.com/alpapago.png?width=10px)](https://github.com/alpapago) | [![](https://github.com/qweraqwer.png?width=10px)](https://github.com/gimezi) |
+|[![](https://github.com/alpapago.png?width=5px)](https://github.com/alpapago) | [![](https://github.com/gimezi.png?width=5px)](https://github.com/gimezi) |
 |:---:|:---:|
 | 신애 | 예지 |
