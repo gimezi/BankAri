@@ -45,3 +45,7 @@
 <img src="https://img.shields.io/badge/git.js-black?style=for-the-badge&logo=Git">
 
 ## 팀원
+
+|[![](https://github.com/alpapago.png?width=10px)](https://github.com/alpapago) | [![](https://github.com/qweraqwer.png?width=10px)](https://github.com/gimezi) |
+|:---:|:---:|
+| 신애 | 예지 |
