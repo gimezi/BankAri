@@ -49,3 +49,17 @@
 |[![](https://github.com/gimezi.png?width=5px)](https://github.com/gimezi) |[![](https://github.com/alpapago.png?width=5px)](https://github.com/alpapago)|
 |:---:|:---:|
 | 예지 | 신애 |
+
+
+## 프로젝트 돌리기
+### BackEnd 
+(env파일 추가)
+`python -m venv venv`
+`source venv/Scripts/activate`
+`pip install -r requirements.txt`
+`python manage.py migrate`
+`python manage.py runserver`
+
+### FrontEnd
+`npm install`
+`npm run dev`
